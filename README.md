@@ -17,5 +17,14 @@ A modern, responsive ReactJS-based landing page for the PopX platform. This proj
 ```bash
 git clone https://github.com/muskanagarwal3110/PopX.git
 cd PopX
+```
+### 2. Install dependencies
+```bash
+npm install
+```
 
-
+### 3. Run the app
+```bash
+npm run dev
+```
+The app will run at http://localhost:5173
